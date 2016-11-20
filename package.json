@@ -1,14 +1,10 @@
 {
   "name": "goldfishbot",
-  "version": "1.0.0",
-  "description": "Goldfish will try its very best to remember things you ask it to",
+  "version": "0.0.0",
+  "description": "Goldfish will do its very best to remember what you ask it to",
   "main": "index.js",
-  "directories": {
-    "example": "examples",
-    "test": "test"
-  },
   "scripts": {
-    "test": "make test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,8 +12,9 @@
   },
   "keywords": [
     "node",
-    "botkit",
-    "slack"
+    "slack",
+    "bot",
+    "botkit"
   ],
   "author": "Sandy Rogers <s@ndyroge.rs>",
   "license": "ISC",
