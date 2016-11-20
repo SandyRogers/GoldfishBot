@@ -46,3 +46,5 @@ jspm_packages
 # Yarn Integrity file
 .yarn-integrity
 
+# BotKit filestore
+filestore.json
