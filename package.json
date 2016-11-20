@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/SandyRogers/GoldfishBot/issues"
   },
-  "homepage": "https://github.com/SandyRogers/GoldfishBot#readme"
+  "homepage": "https://github.com/SandyRogers/GoldfishBot#readme",
+  "dependencies": {
+    "botkit": "^0.4.1"
+  }
 }
