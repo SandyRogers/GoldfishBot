@@ -1,0 +1,28 @@
+{
+  "name": "goldfishbot",
+  "version": "1.0.0",
+  "description": "Goldfish will try its very best to remember things you ask it to",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyRogers/GoldfishBot.git"
+  },
+  "keywords": [
+    "node",
+    "botkit",
+    "slack"
+  ],
+  "author": "Sandy Rogers <s@ndyroge.rs>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyRogers/GoldfishBot/issues"
+  },
+  "homepage": "https://github.com/SandyRogers/GoldfishBot#readme"
+}
